@@ -1,2 +1,2 @@
 # Weather-App
-i developed the Weather App using html and css. 
+I developed the Weather App using html and css. 
